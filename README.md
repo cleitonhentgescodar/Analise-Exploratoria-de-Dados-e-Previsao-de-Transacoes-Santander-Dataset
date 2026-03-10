@@ -72,9 +72,6 @@ A métrica utilizada foi:
 
 Essa métrica é adequada para problemas de classificação com classes desbalanceadas.
 
----
-├── README.md
-
 
 ---
 
